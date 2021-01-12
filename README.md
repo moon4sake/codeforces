@@ -1,2 +1,2 @@
 # codeforces
-Codeforces: python solutions
+python solutions
