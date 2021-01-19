@@ -2,7 +2,7 @@
 # problem: (D) Discrete Centrifugal Jumps
 
 import collections
- 
+
 def DCJ(n, heights):
     # We have n buildings: num(heights) == n
     # Let's denote the building with its index i.e. 0 to (n-1)th buildings
